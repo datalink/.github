@@ -10,7 +10,7 @@ We believe that better software will lead to better preparedness, better complia
 
 We’re a small, dedicated software engineering team headquartered in Melbourne, Australia. We balance elegance with pragmatism and sound judgement to punch above our weight and deliver great software that makes a difference.
 
-We value:
+### What we value
 
 - Working in a safe, positive and life-friendly workplace;
 - Delivering meaningful results for our customers, the company and the planet;
@@ -18,6 +18,14 @@ We value:
 - Having integrity in our people and our systems.
 - We like working with people who share our ethos for a healthy workplace.
 
+### Tech Stack
+
+We work with the following technologies:
+
+- AWS, Docker, Serverless & Infrastructure-as-code
+- PHP & MySQL in the back-end
+- React & Typescript in the front-end
+- CI pipelines, QA tooling, Git FLow and code reviews
 
 ## Interested in joining us? 
 
